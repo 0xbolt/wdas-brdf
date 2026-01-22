@@ -1,5 +1,5 @@
 # wdas-brdf
-The original [wdas/brdf](https://github.com/wdas/brdf), but with some CMakeLists.txt files slapped around. It should now be buildable with
+The original [wdas/brdf](https://github.com/wdas/brdf), but with some CMakeLists.txt files slapped around. You may build it with:
 
 ```
 cmake -S . -B build -DCMAKE_PREFIX_PATH="$(brew --prefix qt@5)"
