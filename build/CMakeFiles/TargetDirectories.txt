@@ -1,0 +1,15 @@
+/Users/dbsc/Projects/wdas-brdf/build/CMakeFiles/edit_cache.dir
+/Users/dbsc/Projects/wdas-brdf/build/CMakeFiles/rebuild_cache.dir
+/Users/dbsc/Projects/wdas-brdf/build/CMakeFiles/list_install_components.dir
+/Users/dbsc/Projects/wdas-brdf/build/CMakeFiles/install.dir
+/Users/dbsc/Projects/wdas-brdf/build/CMakeFiles/install/local.dir
+/Users/dbsc/Projects/wdas-brdf/build/CMakeFiles/install/strip.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/brdf.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/edit_cache.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/rebuild_cache.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/list_install_components.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/install.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/install/local.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/install/strip.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/brdf_autogen_timestamp_deps.dir
+/Users/dbsc/Projects/wdas-brdf/build/src/brdf/CMakeFiles/brdf_autogen.dir

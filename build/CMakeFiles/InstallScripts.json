@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/dbsc/Projects/wdas-brdf/build/cmake_install.cmake",
+		"/Users/dbsc/Projects/wdas-brdf/build/src/brdf/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

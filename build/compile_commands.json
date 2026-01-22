@@ -1,0 +1,218 @@
+[
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/brdf_autogen/mocs_compilation.cpp.o -c /Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/mocs_compilation.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/mocs_compilation.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/brdf_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/BRDFAnalytic.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFAnalytic.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFAnalytic.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/BRDFAnalytic.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/BRDFBase.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFBase.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFBase.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/BRDFBase.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/BRDFImageSlice.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFImageSlice.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFImageSlice.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/BRDFImageSlice.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/BRDFMeasuredAniso.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFMeasuredAniso.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFMeasuredAniso.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/BRDFMeasuredAniso.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/BRDFMeasuredMERL.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFMeasuredMERL.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/BRDFMeasuredMERL.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/BRDFMeasuredMERL.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ColorVarWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ColorVarWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ColorVarWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ColorVarWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/DGLFrameBuffer.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/DGLFrameBuffer.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/DGLFrameBuffer.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/DGLFrameBuffer.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/DGLShader.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/DGLShader.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/DGLShader.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/DGLShader.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/IBLWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/IBLWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/IBLWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/IBLWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/IBLWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/IBLWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/IBLWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/IBLWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ImageSliceWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ImageSliceWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ImageSliceWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ImageSliceWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ImageSliceWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ImageSliceWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ImageSliceWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ImageSliceWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/FloatVarWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/FloatVarWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/FloatVarWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/FloatVarWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/LitSphereWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/LitSphereWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/LitSphereWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/LitSphereWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/main.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/main.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/main.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/glerror.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/glerror.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/glerror.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/glerror.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/MainWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/MainWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/MainWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/MainWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ViewerWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ViewerWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ViewerWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ViewerWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ParameterGroupWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ParameterGroupWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ParameterGroupWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ParameterGroupWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ParameterWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ParameterWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ParameterWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ParameterWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/SharedContextGLWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/SharedContextGLWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/SharedContextGLWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/SharedContextGLWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ShowingDockWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ShowingDockWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ShowingDockWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ShowingDockWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/PlotCartesianWindow.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/PlotCartesianWindow.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/PlotCartesianWindow.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/PlotCartesianWindow.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/PlotCartesianWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/PlotCartesianWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/PlotCartesianWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/PlotCartesianWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/PlotPolarWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/PlotPolarWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/PlotPolarWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/PlotPolarWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/Plot3DWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/Plot3DWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/Plot3DWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/Plot3DWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/LitSphereWidget.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/LitSphereWidget.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/LitSphereWidget.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/LitSphereWidget.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/SimpleModel.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/SimpleModel.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/SimpleModel.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/SimpleModel.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/Paths.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/Paths.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/Paths.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/Paths.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/Quad.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/Quad.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/Quad.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/Quad.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/Sphere.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/Sphere.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/Sphere.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/Sphere.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ptex/PtexReader.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexReader.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexReader.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ptex/PtexReader.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ptex/PtexUtils.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexUtils.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexUtils.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ptex/PtexUtils.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ptex/PtexCache.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexCache.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexCache.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ptex/PtexCache.cpp.o"
+},
+{
+  "directory": "/Users/dbsc/Projects/wdas-brdf/build/src/brdf",
+  "command": "/usr/bin/clang++ -DNOMINMAX -DPTEX_STATIC -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dbsc/Projects/wdas-brdf/build/src/brdf/brdf_autogen/include -I/Users/dbsc/Projects/wdas-brdf/src/brdf -I/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex -I/Users/dbsc/Projects/wdas-brdf/src/brdf/glm -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtOpenGL.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -fPIC -o CMakeFiles/brdf.dir/ptex/PtexHalf.cpp.o -c /Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexHalf.cpp",
+  "file": "/Users/dbsc/Projects/wdas-brdf/src/brdf/ptex/PtexHalf.cpp",
+  "output": "src/brdf/CMakeFiles/brdf.dir/ptex/PtexHalf.cpp.o"
+}
+]
