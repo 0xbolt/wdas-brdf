@@ -1,5 +1,5 @@
 # wdas-brdf
-The original [wdas/brdf](https://github.com/wdas/brdf) repo is a qmake project, and I couldn't compile it. So I've slapped some CMakeLists.txt files around, and it should now be buildable with
+The original [wdas/brdf](https://github.com/wdas/brdf) uses qmake but apparently it is not around anymore. So I've slapped some CMakeLists.txt files around, and it should now be buildable with
 
 ```
 cmake -S . -B build -DCMAKE_PREFIX_PATH="$(brew --prefix qt@5)"
